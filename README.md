@@ -1,12 +1,15 @@
 # Gwee Jee See
 jseegwee@gmail.com | +60-14 9696 961
 
-🎓 Applied Mathematics with Computing Student
+## Education
+Universiti Tunku Abdul Rahman (UTAR) Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – May 2027
+- Highlights: CGPA 3.4318
+- Relevant Coursework: Artificial Intelligence, Problem Solving with Data Structures and Algorithms, Probability & Statistics, Linear Algebra, Stochastic Processes, Data Visualization & Reporting, Data Mining, Applied Regression Analysis
 
 ## 👨‍💻 About Me
-- Learning Full-Stack Development
 - Interested in AI & Machine Learning
 - Building software projects with Java and Python
+- Learning Full-Stack Development
 
 ## 🛠️ Tech Stack
 Java, Python, C++, MySQL, Supabase badges
