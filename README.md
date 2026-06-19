@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jee See Gwee
 
-<!--
-**Jeesee5/Jeesee5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied Mathematics with Computing Student
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Learning Full-Stack Development
+- Interested in AI & Machine Learning
+- Building software projects with Java and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+(Java, Python, C++, MySQL, Supabase badges)
+
+## 🚀 Current Projects
+- AI-Based Student Stress Prediction
+
+## 🌟 Featured Projects
+- Library E-Book Lending System
+
+## 📫 Connect With Me
+LinkedIn: | Email: jseegwee@gmail.com
