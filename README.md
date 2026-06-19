@@ -12,7 +12,7 @@ Universiti Tunku Abdul Rahman (UTAR) Bachelor of Science (Honours) Applied Mathe
 - Learning Full-Stack Development
 
 ## Tech Stack
-Java, Python, C++, MySQL, Supabase badges
+Java, Python, C++, R, Supabase, TypeScript
 
 ## Current Projects
 - AI-Based Student Stress Prediction
