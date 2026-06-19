@@ -1,4 +1,4 @@
-# Hi, Gwee Jee See
+# Gwee Jee See
 jseegwee@gmail.com | +60-14 9696 961
 
 🎓 Applied Mathematics with Computing Student
