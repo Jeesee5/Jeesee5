@@ -28,7 +28,7 @@ Java, Python, C++, R, Supabase, TypeScript
 - Engineered a Python machine learning pipeline to forecast Malaysian COVID-19 trends using XGBoost and Random Forest algorithms.
 - Optimized models through GridSearchCV and TimeSeriesSplit after engineering time-series features from mobility data.
 
-[U Hospital Sales] (https://github.com/Jeesee5/UHospital-Sales) | Sep 2025
+[U Hospital Sales](https://github.com/Jeesee5/UHospital-Sales) | Sep 2025
 - Transformed and cleaned raw data using Power Query, then built DAX measures (YTD, MoM growth, filtering) for analysis
 - Designed interactive dashboards to turn data into clear business insights
   
@@ -39,5 +39,8 @@ Java, Python, C++, R, Supabase, TypeScript
 - Developed a Java-based library system with role-based authentication, user management, and e-book lending and reservation features.
 - Implemented the MVC architecture to improve code organization and maintainability.
 
-## Honors & Awards
+## Competitions & Achievements
+- USAII Global AI Hackathon (June 2026)
+- Talentbank Tech Hackathon 2026 (June 2026)
 - Top 10 – UKM Data Challenge (Apr 2026)
+- Top Coders 2025 (July 2025)
